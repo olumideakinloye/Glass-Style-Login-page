@@ -33,6 +33,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding: 30px;
   width: 30%;
   aspect-ratio: 1/1;
   height: auto;
@@ -170,6 +171,7 @@ a{
 
 @media(max-width: 750px){
   .glass{
-    width: 70%;
+    width: 80%;
+    padding: 15px;
   }
 }
